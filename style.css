@@ -23,7 +23,7 @@ body {
 }
 
 main {
-    width: 55%;
+    width: 90%;
     max-width: 1200px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
