@@ -17,6 +17,12 @@ The challenge was to create a responsive design that would look good on both des
 ### How we've solved the challenge
 I used CSS Grid to create a responsive layout that would adjust to different screen sizes.
 
+- Add CSS Grid layout with responsive breakpoints
+- Create custom color variables for consistent theming
+- Implement smooth transitions for width changes
+- Add tablet-specific layout for better UX
+- Update README with solution screenshots and learnings
+
 ### What I learned
 
 I learned how to use CSS Grid to create a responsive layout that would adjust to different screen sizes.
